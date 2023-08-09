@@ -1,9 +1,10 @@
-# Architecture
-![architecture](https://github.com/DhruvS0/CloudOps-Week-3-Terraform/assets/113872537/838c4279-7fca-42b7-b2a9-733174cc182f)
-
 
 # CloudOps-Week-3-Terraform
 This repository is created to learn and deploy 2-tire application on AWS cloud using terraform
+
+## Architecture
+![architecture](https://github.com/DhruvS0/CloudOps-Week-3-Terraform/assets/113872537/838c4279-7fca-42b7-b2a9-733174cc182f)
+
 
 #### Create S3 Backend Bucket
 Create an S3 bucket to store the .tfstate file in the remote backend
